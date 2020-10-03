@@ -1,0 +1,3 @@
+INSERT INTO MOVIES(TITLE, YEAR, DIRECTOR) VALUES('Szeregowiec Ryan',1998,'Steven Spielberg')
+INSERT INTO MOVIES(TITLE, YEAR, DIRECTOR) VALUES('Czas apokalipsy',1972, 'Fracis Ford Coppola')
+INSERT INTO MOVIES(TITLE, YEAR, DIRECTOR) VALUES('Full Metal Jacket', 1987,'Stanley Kubrick')
